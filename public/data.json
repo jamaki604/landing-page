@@ -21,7 +21,7 @@
     "projectFontFamily": null,
     "projectRepositoryUrl": null,
     "projectDeploymentUrl": null,
-    "lastUpdated": "2025-04-21T00:09:30.289",
+    "lastUpdated": "2025-04-21T00:12:21.859",
     "createdAt": "2024-12-05T15:54:24.905",
     "affiliateClientOwnerId": null,
     "affiliateOwnerId": null
@@ -87,10 +87,10 @@
   },
   "designData": [
     {
-      "designId": "3e74730e-d957-4dc8-a725-e250725e6842",
+      "designId": "e9f7a151-ee82-400e-8489-0789efc28ab8",
       "designStatus": "DRAFT",
-      "lastUpdated": "2025-04-21T00:09:30.685",
-      "createdAt": "2025-04-21T00:09:30.333",
+      "lastUpdated": "2025-04-21T00:12:22.212",
+      "createdAt": "2025-04-21T00:12:21.937",
       "projectId": "6ed47459-139a-4f39-ac04-f93765829206"
     }
   ],
@@ -104,9 +104,9 @@
       "pageSeoKeywords": null,
       "pageSeoImage": null,
       "pageConfiguration": "{\"isHome\":true}",
-      "lastUpdated": "2025-04-21T00:09:30.802",
+      "lastUpdated": "2025-04-21T00:12:22.425",
       "createdAt": "2025-04-20T23:55:58.056",
-      "designId": "3e74730e-d957-4dc8-a725-e250725e6842"
+      "designId": "e9f7a151-ee82-400e-8489-0789efc28ab8"
     }
   ],
   "layerData": []
